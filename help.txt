@@ -1,0 +1,3 @@
+composer require jenssegers/oauth
+composer require laravel/socialite
+\\192.168.1.9\Share\project\MarcetMe

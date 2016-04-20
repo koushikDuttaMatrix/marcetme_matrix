@@ -1,0 +1,98 @@
+usa addres:
+	
+	Street Address 	1615 W. Abram St.
+	City 	Arlington
+	Country 	United States
+	Postal/Zip Code 	TX 76013
+	Telephone 	+1 817 274 2933
+	Telefax 	+1 817 274 4845
+	
+	USA Address - 3 East 54th Street, 17th Floor, New York, NY 10022, 
+	USA Contact Numbers - Tel: +1 212 703-2300 Fax: +1 212 703-2399		408-555-1212
+
+	
+	1703 N. Beauregard St. 
+	Alexandria, VA 22311-1714 USA.
+
+	3141 #E Piper Lane
+	Charlotte, NC. 28208, USA
+	FAX (704) 234-6805
+
+Some UK Address:
+	Ramsdens Pawnbrokers and Jewellers
+	Unit 3 Bellway House
+	Woodhorn Road
+	Ashington
+	Northumberland
+	NE63 0AE 
+
+
+	Ramsdens Pawnbrokers & Jewellers
+	100 Queensway
+	Billingham
+	Cleveland
+	TS23 2NU 
+
+
+	73 The Rock
+	Bury
+	Lancashire
+	BL9 0NB 
+
+
+Name:
+Chris Fralic						
+Howard Morgan
+Andy Fillat
+Peter Rip
+Peter Sinclair
+Donald Valentine
+Douglas Leone
+Blair Garrou
+Dan Watkins
+Bill Elkus
+David Stern
+Erik Lassila
+Alex Osadzinski
+Fred Wang
+Adam Grosser
+Ashmeet Sidana
+
+Gmail account ::
+jackrobinson1985@gmail.com 
+
+teamftestemail@gmail.com / Passw0rd#$2014!
+
+Facebook Profile ::
+teamftestemail@gmail.com / admin123
+
+Twitter Login ::
+teamftestemail@gmail.com / admin@123
+
+LinkedIn profile : 
+teamftestemail@gmail.com / admin@123
+
+
+
+
+
+https://developers.facebook.com/apps/245145432487152/
+https://github.com/composer/composer/issues/1440
+C:\Program Files\Intel\iCLS Client\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;D:\xampp\php;C:\Documents and Settings\All Users\Application Data\ComposerSetup\bin
+
+
+
+
+
+
+
+http://testyourprojects.net/matrix/project/MarcetMe/public-auth-facebook-callback?code=AQDCHqKmaNN05SuCcXRLtUJnOp5OmzLUJ2LMHYeESxOs16yjxDRAFu6We5a13uyO0EBAU5OaHlZMA50LnOkLLRAY5QmXoTSk7nkIAGeR6pSYSDQLkfhU5h5jitvC1sJ8eTxsgSTt4dJSyNfIhuaT768I8WWP8Hg--P73Ed-ni0EGMFtQQ_3vispqlAFqktTTavsqVESq1RtXHssACeXLfigvXQzhN3FNAx__S8jx5BxXszWIabsCcFluqQdFGpv_dehr_B2pD3gFCX5vMkLX_xLjBN8MZtrIcqJT2JpAWN5lv0RbVaCraaRxUjne-eMpEJmFbCM3b0iPI7r2nHVvFuGa&state=yta0xLcH24lVLDvs6AwiEtTdE6pTMoKlgBJf4NIT#_=_
+
+<img src="http://testyourprojects.net/matrix/project/MarcetMe/public/images/logo.png" alt="Marcet Me" border="0" title="Marcet Me">
+
+
+working list
+1. multiple photo upload completed on add business page.
+2. multiple photo view completed.(business view by login user,category and  search business  detail view page).
+3. New logic implemented on blog and articles module. 
+4. working on multiple photo upload on edit page. (working progress)

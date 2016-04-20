@@ -1,0 +1,16 @@
+\\192.168.1.9\Share\project\MarcetMe
+
+http://testyourprojects.net/matrix/project/MarcetMe/public/
+
+http://testyourprojects.net/matrix/project/MarcetMe/public/admin/category
+
+admin@marcetme.com / 111111
+USERNAME: kolmat2015
+PASSWORD: Matr@4569erh
+
+database_name = marcetme
+substr( strip_tags($latestblog->description) ,0,20)
+ 
+
+
+

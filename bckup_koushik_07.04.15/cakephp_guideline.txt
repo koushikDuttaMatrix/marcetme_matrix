@@ -1,0 +1,2 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-cakephp-to-create-a-small-web-application-part-2
+http://book.cakephp.org/2.0/en/core-libraries/helpers/html.html

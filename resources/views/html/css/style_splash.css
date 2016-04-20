@@ -1,0 +1,42 @@
+/* Import Basic Files
+
+/* For General Page 
+=================================================================================*/  
+
+body{ background:url(../images/splash_sky_bg.jpg) #64c0e5 repeat-x 0 0; padding:0; margin:0;}
+
+div,p,h1,h2,h3,h4,ul,li,a,span,ins,form,fieldset,input,select,button,textarea,label {padding:0; margin:0;}
+ul{list-style:none; padding:0; margin:0;}
+
+address, blockquote, abbr, acronym, b, bdo, big, br, cite, code, dfn {margin: 0;padding: 0;}
+article, aside, figcaption, figure, footer, header, hgroup, nav, section, video, audio, mark {display: block; margin:0; padding:0;}
+
+object, embed { outline: 0; }
+img, fieldset, a img {border:0;}
+img{ width:100%; height:auto;}
+
+/* Flexible Embedded Videos */
+.video embed,
+.video object,
+.video iframe {width: 100%;	height: auto;}
+
+.clear{ clear:both; padding:0; margin:0;}   
+/* For Home Page 
+================================================== */          
+
+.splasg_logo{ max-width:421px; margin:0 auto; padding:0 8%; margin-top:25%; margin-bottom:32%;}
+.splasg_logo img{ width:100%; height:auto;}
+.splash_footer{ padding:0;}
+.splash_footer img{ width:100%; height:auto; float:left; }
+
+
+@media (max-width:800px) {
+.splasg_logo{margin-top:47%;}
+}
+
+
+
+
+
+
+
